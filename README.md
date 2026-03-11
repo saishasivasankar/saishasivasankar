@@ -24,4 +24,5 @@ Machine learning project that predicts diseases based on symptoms.
 Digital platform for farmers to book tractors and agri vehicles.
 
 🔹 Women safety platform 
+
 Manual and gesture based activation for Women's
