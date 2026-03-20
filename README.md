@@ -1,28 +1,72 @@
-# Hi 👋 I'm Saisha
+# Hi 👋, I'm Saisha Priyadarshini S
 
-🎓 Electronics and Communication Engineering Student  
-💻 Interested in ML, Embedded Systems and Software Development  
-🚀 Passionate about solving real-world problems through technology  
+### Machine Learning Enthusiast | Embedded Systems Developer | Problem Solver
+
+🎓 Electronics and Communication Engineering Student
+
+💻 Passionate about Machine Learning, Embedded Systems, and Software Development
+
+🚀 Focused on building impactful, real-world technology solutions
+
 📍 Chennai, India
 
-## Connect With Me
+---
 
-LinkedIn: https://www.linkedin.com/in/saisha-sivasankar/   
-Email: saishasivasankar@gmail.com
+## 🚀 About Me
 
-## Tech Stack
+* 🤖 Strong interest in **Machine Learning and AI-driven applications**
+* 🔧 Hands-on experience in **Embedded Systems and IoT development**
+* 📊 Enthusiastic about solving real-world problems using technology
+* 🌱 Currently exploring **Deep Learning and system-level design**
 
-C | C++ | Python | 
-Git | Arduino | ESP32 | raspberry pi pico | PIC Controller
+---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-🔹 Disease Prediction System  
-Machine learning project that predicts diseases based on symptoms.
+**Languages:**
+C • C++ • Python
 
-🔹 Farm Machinery Booking Platform  
-Digital platform for farmers to book tractors and agri vehicles.
+**Tools & Technologies:**
+Git • Arduino • ESP32 • Raspberry Pi Pico • PIC Microcontroller
 
-🔹 Women safety platform 
+**Domains:**
+Machine Learning • Embedded Systems • IoT
 
-Manual and gesture based activation for Women's
+---
+
+## 📌 Featured Projects
+
+### 🧠 Disease Prediction System
+
+A machine learning-based system that predicts possible diseases based on user symptoms using classification algorithms.
+
+---
+
+### 🚜 Farm Machinery Booking Platform
+
+A digital platform designed to help farmers easily book tractors and agricultural machinery.
+
+---
+
+### 🛡️ Women Safety Platform
+
+A safety-focused system with **manual and gesture-based activation**, designed to provide quick emergency assistance.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saishasivasankar\&show_icons=true\&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saishasivasankar\&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/saisha-sivasankar/
+* 📧 Email: [saishasivasankar@gmail.com](mailto:saishasivasankar@gmail.com)
+
+---
+
+⭐ *Driven to build innovative solutions that create real-world impact through technology.*
